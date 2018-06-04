@@ -1,0 +1,55 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "afbe03ce2d613b561ec2241a11b42541",
+    "packages": [
+        {
+            "name": "solt9029/php-utility",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/solt9029/PHPUtility.git",
+                "reference": "3f1e79636092b2e2ba02ca946aa1c8c5d2055527"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/solt9029/PHPUtility/zipball/3f1e79636092b2e2ba02ca946aa1c8c5d2055527",
+                "reference": "3f1e79636092b2e2ba02ca946aa1c8c5d2055527",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Solt9029\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "include-path": [
+                "src/"
+            ],
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Kenshi Shiode",
+                    "email": "atemu1212@yahoo.co.jp"
+                }
+            ],
+            "time": "2018-06-04T15:38:10+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "solt9029/php-utility": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

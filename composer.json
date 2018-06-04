@@ -1,0 +1,12 @@
+{
+    "name": "shiode/composer-library-use-tutorial",
+    "authors": [
+        {
+            "name": "Kenshi Shiode",
+            "email": "atemu1212@yahoo.co.jp"
+        }
+    ],
+    "require": {
+        "solt9029/php-utility": "dev-master"
+    }
+}
