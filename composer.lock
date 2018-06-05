@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "afbe03ce2d613b561ec2241a11b42541",
+    "content-hash": "68461796c8eaa179bc386bd861704c14",
     "packages": [
         {
             "name": "solt9029/php-utility",
@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/solt9029/PHPUtility.git",
-                "reference": "3f1e79636092b2e2ba02ca946aa1c8c5d2055527"
+                "reference": "b8be4284ae981f06c11efe5da33fcc55b25e9f48"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/solt9029/PHPUtility/zipball/3f1e79636092b2e2ba02ca946aa1c8c5d2055527",
-                "reference": "3f1e79636092b2e2ba02ca946aa1c8c5d2055527",
+                "url": "https://api.github.com/repos/solt9029/PHPUtility/zipball/b8be4284ae981f06c11efe5da33fcc55b25e9f48",
+                "reference": "b8be4284ae981f06c11efe5da33fcc55b25e9f48",
                 "shasum": ""
             },
             "type": "library",
@@ -39,7 +39,7 @@
                     "email": "atemu1212@yahoo.co.jp"
                 }
             ],
-            "time": "2018-06-04T15:38:10+00:00"
+            "time": "2018-06-05T09:23:14+00:00"
         }
     ],
     "packages-dev": [],
